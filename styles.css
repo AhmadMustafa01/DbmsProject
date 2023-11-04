@@ -1,0 +1,8 @@
+.customContainer {
+    max-width: 50rem;
+    border:  1px solid rgb(114, 135, 230); 
+        border-radius: 0.5rem;
+}
+.createlogo{
+    color: rgba(0, 119, 255, 0.582);
+}
